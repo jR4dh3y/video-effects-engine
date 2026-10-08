@@ -1,0 +1,9 @@
+{
+  "song_start": 0,
+  "duration": 2,
+  "plays": [{
+    "clip": "00", "out": [0, 2], "anchors": [[0, 0.5], [2, 2.5]],
+    "kills": [[1, 1.5]], "kill_strength": [1], "audio_lag": 0,
+    "tin": "fade", "tout": "fade", "bw": [], "zoomk": []
+  }]
+}

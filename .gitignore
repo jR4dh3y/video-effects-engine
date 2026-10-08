@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+clips/
+audio/
+render/
+tools/
+*.mp4
+*.wav
+*.npy
+*.f32
